@@ -1,0 +1,11 @@
+{
+  "name": "randomutils.js",
+  "version": "1.0.0",
+  "description": "A versatile and lightweight Javascript module that provides a comprehensive suite of functions for generating random values. It supports the creation of random strings based on patterns, random numbers within a range, UUIDs, and more. With its simple interface and robust error handling, it is a valuable tool for a wide array of applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jawad Shafique",
+  "license": "MIT"
+}
