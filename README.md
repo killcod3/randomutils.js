@@ -12,7 +12,7 @@ npm install randomutils.js
 ## Usage
 Import the module and use its exported functions as needed:
 
-```pyhton
+```python
 const randomUtils = require('randomutils.js');
 
 // Generate a random string based on the specified pattern
